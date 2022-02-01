@@ -1,5 +1,5 @@
 # RockPaperScissor-Game
-This project is a rock paper scissor game i which one player is user and the other is computer, where you get to play this game with the computer.
+This project is a rock paper scissor game designed by using Python Programming Language, in which one player is user and the other is computer, where you get to play this game with the computer.
 
 # Directions
 at first enter your name
